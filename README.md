@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1> 🤟🏾 Hi, I'm Ilyana 🤘🏾 </h1>
-  ![Me at my graduation from UT Austin](https://user-images.githubusercontent.com/105837328/185202270-5978616c-fbfb-4fc2-b527-3249504ccd58.jpeg)
+    <a href="#"><img alt"Me at my graduation from UT Austin" src="https://user-images.githubusercontent.com/105837328/185202270-5978616c-fbfb-4fc2-b527-3249504ccd58.jpeg"/></a>
   <p align="center">I'm a US based software engineer who enjoys solving escape rooms, creative writing, and movies.</p>
   <hr>
 
