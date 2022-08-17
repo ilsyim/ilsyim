@@ -1,6 +1,9 @@
-### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilsyim&show_icons=true&theme=dracula)
+### Hi, I'm Ilyana 🤘🏾
+![Me at my graduation from UT Austin](https://user-images.githubusercontent.com/105837328/185202270-5978616c-fbfb-4fc2-b527-3249504ccd58.jpeg)
+![Ilyana's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilsyim&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilsyim&layout=compact&theme=dracula)](https://github.com/ilsyim/github-readme-stats)
 <!--
+
 **ilsyim/ilsyim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
