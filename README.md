@@ -3,7 +3,7 @@
 <div align="center">
   <h1> 🤟🏾 Hi, I'm Ilyana 🤘🏾 </h1>
     <a href="#"><img alt"Me at my graduation from UT Austin" src="https://user-images.githubusercontent.com/105837328/185202270-5978616c-fbfb-4fc2-b527-3249504ccd58.jpeg"/></a>
-  <p align="center">I'm a US based software engineer who enjoys solving escape rooms, creative writing, and movies.</p>
+  <p align="center">I'm a TX based software engineer who enjoys solving escape rooms, creative writing, and movies.</p>
   <hr>
 
   ![Ilyana's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilsyim&show_icons=true&theme=dracula)
